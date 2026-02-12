@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "ZHANYU"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in 3D Computer Vision"
+  bio              : #"PhD candidate in 3D Computer Vision"
   location         : "Paris, France"
   employer         : "Sorbonne University"
   uri              : # URL
