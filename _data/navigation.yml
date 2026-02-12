@@ -22,7 +22,7 @@ main:
     url: /hiking/
 
   - title: "Trips"
-    url: /trips/ 
+    url: /trip/ 
     
   #- title: "CV"
     #url: /cv/
