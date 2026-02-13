@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD candidate working on 3D Computer Vision, Vision Language models, and Camera Mocap Sensor Fusion.
+I am a second year PhD candidate with research interests in 3D Computer Vision, Vision Language Models, Camera Mocap Sensor Fusion and so on.
 
 Please feel free to contact me if there are any opportunities for secondements, colaborations, open discussions, and so on.
 
@@ -17,11 +17,11 @@ Coming soon
 
 Talks:
 ======
-- [The RenAIssance] (https://www.rsa.org/news/702862/Program-Announced-The-RenAIssance.htm): Graduate Student Lightning Talks in 2025.
+- [The RenAIssance](https://www.rsa.org/news/702862/Program-Announced-The-RenAIssance.htm): Graduate Student Lightning Talks in 2025.
 
 Thesis
 ======
-- [Object Detection and Localization with Multi-agent Sensor Fusion] (https://odr.chalmers.se/items/d2739ec1-4d56-4570-8d44-28921e41c8cd).
+- [Object Detection and Localization with Multi-agent Sensor Fusion](https://odr.chalmers.se/items/d2739ec1-4d56-4570-8d44-28921e41c8cd).
 
 Projects
 ======
@@ -38,7 +38,10 @@ Awards
 
 Beyonds
 ======
-Marathon PB: 03:59:36 at Paris Marathon 2025
-Half Marathon PB: 01:44:24 at Half Marathon in Vincennes 2025
+I am very interested in taking photos, road and trail runnings, hiking and camping, backpacking around the world, and so on.
+- Marathon PB: 03:59:36 at Paris Marathon 2025
+- Half Marathon PB: 01:44:24 at Half Marathon in Vincennes 2025
+- Highest mountains peaked on foot: Kebnekaise in Sweden and Mount Taibai in China.
+- Best hiking experience: Tour du Mont Blanc through France, Italy, and Swizerland in 2023.
 
 
