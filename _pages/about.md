@@ -9,13 +9,13 @@ redirect_from:
 
 I am a second year PhD candidate with research interests in 3D Computer Vision, Vision Language Models, Camera Mocap Sensor Fusion and so on.
 
-Please feel free to contact me if there are any opportunities for secondements, colaborations, open discussions, and so on.
+Please feel free to contact me if there are any opportunities for secondements, collaborations, open discussions, and so on.
 
 Publications
 ======
-Coming soon
+Coming soon...
 
-Talks:
+Talks
 ======
 - [The RenAIssance](https://www.rsa.org/news/702862/Program-Announced-The-RenAIssance.htm): Graduate Student Lightning Talks in 2025.
 
