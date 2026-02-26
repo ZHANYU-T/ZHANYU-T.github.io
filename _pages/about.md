@@ -17,7 +17,7 @@ Publications
 
   <!-- Left image -->
   <div style="flex:0 0 260px; max-width:260px;">
-    <img src="assets/img/IMAGE1" style="width:100%; border-radius:10px;">
+    <img src="assets/img/IMAGE1.png" style="width:100%; border-radius:10px;">
   </div>
 
   <!-- Right content -->
