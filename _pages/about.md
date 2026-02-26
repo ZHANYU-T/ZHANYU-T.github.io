@@ -64,14 +64,40 @@ Publications
   </div>
 </div>
   
-
-Talks
-======
-- [The RenAIssance](https://www.rsa.org/news/702862/Program-Announced-The-RenAIssance.htm): Graduate Student Lightning Talks in 2025.
-
 Thesis
 ======
-- [Object Detection and Localization with Multi-agent Sensor Fusion](https://odr.chalmers.se/items/d2739ec1-4d56-4570-8d44-28921e41c8cd).
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE2.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+    <h3 style="margin-top:0;">
+  - [Object Detection and Localization with Multi-agent Sensor Fusion](https://odr.chalmers.se/items/d2739ec1-4d56-4570-8d44-28921e41c8cd)
+    </h3>
+
+    <p style="margin:6px 0;">
+      <a href="#">Zhanyu Tuo</a><br>
+      <i>2020</i>
+    </p>
+
+
+    <!-- Abstract (hidden) -->
+    <div id="abstract-paper2" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+The development of Autonomous Driving and Advanced Driver Assistance Systems (AD \& ADAS) has seen rapid progress recently. With the evolution of hardware such as Graphics Processing Units (GPUs) and sensors, as well as a massive increase in the number of datasets and increasingly powerful algorithms, more and more research projects focusing on AD \& ADAS are carried out. In this project, we explore the feasibility of multi-agent sensor fusion for object detection and localization, especially for detection of objects that are occluded in Lidar point clouds, and some prediction results such as 2D vehicle bounding boxes on the images and 3D vehicle bounding boxes in the Lidar point clouds are achieved.
+
+In terms of safe driving, it is important to obtain an exhaustive perception of all objects around the ego vehicle. Sometimes surrounding objects to be detected are occluded when all the sensors are installed on an ego vehicle. To detect and localize surrounding objects, especially for those occluded in the Lidar view, Lidar sensor data and aerial photography from a drone are fused off-line. A Convolutional Neural Network (CNN) focusing on instance segmentation is trained using transfer learning along with image augmentation. An image-based 3D reconstruction map is created and matched with a corresponding Lidar SLAM map. Finally, Lidar point clouds are projected onto the corresponding images, and predicted masks from the CNN are used to detect and localize objects in the Lidar point clouds. The method is evaluated on static and dynamic scenarios separately, and objects can be detected and localized based on fused sensors regardless of the occlusion in the Lidar point clouds. 
+      </p>
+    </div>
+
+  </div>
+</div>
 
 Projects
 ======
@@ -81,6 +107,10 @@ Projects
 - Music Genre Recognition
 - Orientation Estimation by EKF Algorithm
 - Sequential 3D Reconstruction
+
+Talks
+======
+- [The RenAIssance](https://www.rsa.org/news/702862/Program-Announced-The-RenAIssance.htm): Graduate Student Lightning Talks in 2025.
 
 Awards
 ======
