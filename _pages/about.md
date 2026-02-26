@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZHANYU"
+title: "ZHANYU TUO"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ Publications
 
   <!-- Left image -->
   <div style="flex:0 0 260px; max-width:260px;">
-    <img src="assets/img/" style="width:100%; border-radius:10px;">
+    <img src="assets/img/IMAGE1" style="width:100%; border-radius:10px;">
   </div>
 
   <!-- Right content -->
@@ -29,12 +29,12 @@ Publications
 
     <p style="margin:6px 0;">
       <a href="#">Zhanyu Tuo</a><br>
-      <i>arXiv 2025</i>
+      <i>arXiv 2026</i>
     </p>
 
     <!-- Buttons -->
     <p style="margin:10px 0;">
-      <a href="assets/papers/paper.pdf" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">pdf</a>
+      <a href="assets/papers/2602.13901v1.pdf" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">pdf</a>
 
       <a href="javascript:void(0);" onclick="toggleBlock('bibtex-paper1')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">bibtex</a>
 
@@ -52,10 +52,10 @@ Publications
     <!-- BibTeX (hidden) -->
     <div id="bibtex-paper1" style="display:none; margin-top:10px;">
 <pre>
-@article{bensabath2025text,
+@article{tuo2026rpgd,
   title={RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation},
-  author={Zhanyu Tuo},
-  journal={arXiv},
+  author={Tuo, Zhanyu},
+  journal={arXiv preprint arXiv:2602.13901},
   year={2026}
 }
 </pre>
