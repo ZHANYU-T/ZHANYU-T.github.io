@@ -23,12 +23,12 @@ Publications
   <!-- Right content -->
   <div style="flex:1; min-width:260px;">
 
-    <h3 style="margin-top:0;">
+  <h3 style="margin-top:0;">
       RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation
     </h3>
 
-    <p style="margin:6px 0;">
-      <a href="#">Zhanyu Tuo</a><br>
+  <p style="margin:6px 0;">
+      <span style="text-decoration: underline;">Zhanyu Tuo</span><br>
       <i>arXiv 2026</i>
     </p>
 
@@ -76,17 +76,24 @@ Thesis
   <!-- Right content -->
   <div style="flex:1; min-width:260px;">
 
-    <h3 style="margin-top:0;">
-  - [Object Detection and Localization with Multi-agent Sensor Fusion](https://odr.chalmers.se/items/d2739ec1-4d56-4570-8d44-28921e41c8cd)
-    </h3>
+<h3 style="margin-top:0;">
+  <a href="https://odr.chalmers.se/items/d2739ec1-4d56-4570-8d44-28921e41c8cd">
+    Object Detection and Localization with Multi-agent Sensor Fusion
+  </a>
+</h3>
 
-    <p style="margin:6px 0;">
-      <a href="#">Zhanyu Tuo</a><br>
-      <i>2020</i>
+<p style="margin:6px 0;">
+  <span style="text-decoration: underline;">Zhanyu Tuo</span><br>
+  <i>2020</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper1')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
-
-    <!-- Abstract (hidden) -->
+<!-- Abstract (hidden) -->
     <div id="abstract-paper2" style="display:none; margin-top:10px;">
       <b>Abstract:</b>
       <p>
