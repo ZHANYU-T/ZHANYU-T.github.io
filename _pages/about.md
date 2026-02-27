@@ -148,7 +148,43 @@ A common problem for factory environments is incorporating a flexible assembly-l
   </div>
 </div>
 
-- 3D Object Detection from Stereo
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE4.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    3D Object Detection from Stereo - combining 3D computer vision geometry with neural networks
+</h3>
+
+<p style="margin:6px 0;">
+  Zhanyu Tuo 
+  <br>
+  <i>2020</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-4')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-4" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+In this project we combine Geometry based Computer Vision with Machine Learning to refine 3D bounding boxes from the outputs of neural networks. The neural networks prodects the boxes boundary on stereo images, and then 3D computer vision geometry are used to refine the 3D boundary boxes.
+      </p>
+    </div>
+
+  </div>
+</div>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
 
