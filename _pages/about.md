@@ -224,7 +224,7 @@ In this project we have developed a humanoid guard robot that interacts with peo
 
   </div>
 </div>
-- Music Genre Recognition
+
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
 
   <!-- Left image -->
@@ -236,7 +236,7 @@ In this project we have developed a humanoid guard robot that interacts with peo
   <div style="flex:1; min-width:260px;">
 
 <h3 style="margin-top:0;">
-    Music Genre Recognition by CNN and CRNN
+    Music Genre Recognition and Classification by CNN and CRNN on Spectrogram Images
 </h3>
 
 <p style="margin:6px 0;">
@@ -261,7 +261,44 @@ To classify the genre of digital music, a sound signal is transformed into a Spe
 
   </div>
 </div>
-- Orientation Estimation by EKF Algorithm
+
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE7.jpg" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    Orientation Estimation by EKF Algorithm on Gyroscope, Accelerometer, and Magnetomete
+</h3>
+
+<p style="margin:6px 0;">
+  <span style="text-decoration: underline;">Z. Tuo</span>, 
+  N. Moheq <br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-7')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-7" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+In this project, a filter is designed to use the data from 3 key sensors of an Android mobile phone: gyroscope, accelerometer and magnetometer. The gyroscope, measures the angular velocity($\omega$). The accelerometer sensor measures the external force causing acceleration(a) such as gravity and other force that are acting on the phone. Finally, the magnetometer, measures the affect of the magnetic field(m) on the device. Then we designed an outlier to omit out the unaccepted measurements and only use the measurements which are in a accepted interval.
+      </p>
+    </div>
+
+  </div>
+</div>
 - Sequential 3D Reconstruction
 
 Talks
