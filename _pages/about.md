@@ -28,7 +28,7 @@ Publications
     </h3>
 
   <p style="margin:6px 0;">
-      <span style="text-decoration: underline;">Zhanyu Tuo</span><br>
+      Zhanyu Tuo
       <i>arXiv 2026</i>
     </p>
 
@@ -83,7 +83,7 @@ Thesis
 </h3>
 
 <p style="margin:6px 0;">
-  <span style="text-decoration: underline;">Zhanyu Tuo</span><br>
+  Zhanyu Tuo
   <i>2020</i>
 </p>
 
@@ -150,6 +150,45 @@ A common problem for factory environments is incorporating a flexible assembly-l
 
 - 3D Object Detection from Stereo
 - Intelligent Humanoid Robot
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE5.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    Implementation of an Interactive Autonomous Guard Robot with Humanoid Features
+</h3>
+
+<p style="margin:6px 0;">
+  F. Lagerstedt
+  <span style="text-decoration: underline;">Z. Tuo</span>, 
+  T. Stenström, 
+  N. C. Gammanage<br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-5')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-5" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+In this project we have developed a humanoid guard robot that interacts with people that approach it. Its sole purpose is to grant access to people with proper credentials and keep intruders off. More specifically, face detection is used to detect an approaching person. It then initiates a dialogue, asking for credentials. If the person is authorized, the robot will greet the them. Otherwise, the robot will ask the person to leave. The purpose of this project has been to design and construct this robot to get a better understanding of robotics hardware and software such as Robot Operating System (ROS) and to apply basic algorithms from computer vision and mechanical dynamics.
+      </p>
+    </div>
+
+  </div>
+</div>
 - Music Genre Recognition
 - Orientation Estimation by EKF Algorithm
 - Sequential 3D Reconstruction
