@@ -90,7 +90,7 @@ Thesis
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper1')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper2')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
