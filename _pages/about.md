@@ -34,11 +34,11 @@ Publications
 
     <!-- Buttons -->
     <p style="margin:10px 0;">
-      <a href="assets/papers/2602.13901v1.pdf" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">pdf</a>
+      <a href="assets/papers/2602.13901v1.pdf" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">pdf</a>
 
-      <a href="javascript:void(0);" onclick="toggleBlock('bibtex-paper1')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">bibtex</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('bibtex-paper1')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">bibtex</a>
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper1')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper1')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
     <!-- Abstract (hidden) -->
@@ -90,7 +90,7 @@ Thesis
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper2')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper2')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -134,7 +134,7 @@ Projects
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-3')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-3')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -172,7 +172,7 @@ A common problem for factory environments is incorporating a flexible assembly-l
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-4')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-4')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -211,7 +211,7 @@ In this project we apply Geometry based Computer Vision to refine 3D bounding bo
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-5')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-5')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -249,7 +249,7 @@ In this project we have developed a humanoid guard robot that interacts with peo
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-9')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-9')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -286,7 +286,7 @@ In this project, we reconstruct the 3D point cloud of Skansen Lejonet by using s
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-11')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-11')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -324,7 +324,7 @@ In this project, we design a Partical Filter with resampling to track a bike tra
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-10')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-10')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -361,7 +361,7 @@ In this project, we use Unity to design vertial environment with a virtual camer
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-6')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-6')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -399,7 +399,7 @@ To classify the genre of digital music, a sound signal is transformed into a Spe
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-7')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-7')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
@@ -437,7 +437,7 @@ In this project, a filter is designed to use the data from 3 key sensors of an A
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-8')" style="background:#0079FF; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-8')" style="background:#96B7F8; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
