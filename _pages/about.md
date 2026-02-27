@@ -112,7 +112,7 @@ Projects
 
   <!-- Left image -->
   <div style="flex:0 0 260px; max-width:260px;">
-    <img src="assets/img/IMAGE3.jpg" style="width:100%; border-radius:10px;">
+    <img src="assets/img/IMAGE3.png" style="width:100%; border-radius:10px;">
   </div>
 
   <!-- Right content -->
@@ -121,11 +121,13 @@ Projects
 <h3 style="margin-top:0;">
     Available surface detection by top-view depth camera
     -automatic ground truth generation for binary semantic segmentation
-  </a>
 </h3>
 
 <p style="margin:6px 0;">
-  <span style="text-decoration: underline;">Z. Tuo</span><br>
+  <span class="my-name">Z. Tuo</span>, 
+  V. Brandt, 
+  M. Juhlin,
+  L. Rauh<br>
   <i>2019</i>
 </p>
 
