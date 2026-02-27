@@ -229,6 +229,44 @@ In this project we have developed a humanoid guard robot that interacts with peo
 
   <!-- Left image -->
   <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE9.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    3D reconstruction of Skansen Lejonet by Structure from Motion
+</h3>
+
+<p style="margin:6px 0;">
+   D. Xue 
+  <span style="text-decoration: underline;">Z. Tuo</span> 
+  <br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-9')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-9" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+In this project, we reconstruct the 3D point cloud of Skansen Lejonet by using severl images from different view points. we use RANSAC to estimate a new camera pose with minimum outliers, and evaluate a picture-sorting strategy by comparison with a carefully manually ranked order, we also evaluate effect of refine-triangulation in process of adding new cameras.
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
     <img src="assets/img/IMAGE10.png" style="width:100%; border-radius:10px;">
   </div>
 
@@ -274,7 +312,7 @@ In this project, we design a Partical Filter with resampling to track a bike tra
   <div style="flex:1; min-width:260px;">
 
 <h3 style="margin-top:0;">
-    Virtual Verification and Validation of Machine Learning Based Algorithms for Road Damage Detection 
+    Virtual Verification and Validation of Machine Learning Models for Road Damage Detection 
 </h3>
 
 <p style="margin:6px 0;">
@@ -290,7 +328,7 @@ In this project, we design a Partical Filter with resampling to track a bike tra
     </p>
 
 <!-- Abstract (hidden) -->
-    <div id="abstract-10" style="display:none; margin-top:10px;">
+    <div id="abstract-11" style="display:none; margin-top:11px;">
       <b>Abstract:</b>
       <p>
 In this project, we use Unity to design vertial environment with a virtual camera to collect dataset for road damage detection. Since collecting real data in the real world is very expensive, a vertial environment with different types of road damages is built and differnt types of road damages are generated and then used for verification and validation of machine learning models for road damage detection.
@@ -412,43 +450,7 @@ In this project, we design a complimentary filter which uses the readings from t
 
   </div>
 </div>
-<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
 
-  <!-- Left image -->
-  <div style="flex:0 0 260px; max-width:260px;">
-    <img src="assets/img/IMAGE9.png" style="width:100%; border-radius:10px;">
-  </div>
-
-  <!-- Right content -->
-  <div style="flex:1; min-width:260px;">
-
-<h3 style="margin-top:0;">
-    3D reconstruction of Skansen Lejonet by Structure from Motion
-</h3>
-
-<p style="margin:6px 0;">
-   D. Xue 
-  <span style="text-decoration: underline;">Z. Tuo</span>, 
-  <br>
-  <i>2019</i>
-</p>
-
-<!-- Buttons -->
-    <p style="margin:10px 0;">
-
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-9')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
-    </p>
-
-<!-- Abstract (hidden) -->
-    <div id="abstract-9" style="display:none; margin-top:10px;">
-      <b>Abstract:</b>
-      <p>
-In this project, we reconstruct the 3D point cloud of Skansen Lejonet by using severl images from different view points. we use RANSAC to estimate a new camera pose with minimum outliers, and evaluate a picture-sorting strategy by comparison with a carefully manually ranked order, we also evaluate effect of refine-triangulation in process of adding new cameras.
-      </p>
-    </div>
-
-  </div>
-</div>
 
 
 Talks
