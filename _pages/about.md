@@ -134,11 +134,11 @@ Projects
 <!-- Buttons -->
     <p style="margin:10px 0;">
 
-      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper2')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-3')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
     </p>
 
 <!-- Abstract (hidden) -->
-    <div id="abstract-paper2" style="display:none; margin-top:10px;">
+    <div id="abstract-3" style="display:none; margin-top:10px;">
       <b>Abstract:</b>
       <p>
 A common problem for factory environments is incorporating a flexible assembly-line workflow that does not occupy too much space on the factory floor. For these purposes autonomous vehicles could be used to supply the assembly-lines with materials, but the problem of navigating in the factory then arises. Therefore this project aims to solve the problem of what areas of a factory floor are drivable, using a workflow consisting of background subtraction to generate a ground truth, that is then used to train a neural network. The output could potentially be used as a mapping for which a scheduler or robot control system could work upon to avoid collisions and problems with dynamic obstacles.
