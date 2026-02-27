@@ -225,6 +225,42 @@ In this project we have developed a humanoid guard robot that interacts with peo
   </div>
 </div>
 - Music Genre Recognition
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE6.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    Music Genre Recognition by CNN and CRNN
+</h3>
+
+<p style="margin:6px 0;">
+  <span style="text-decoration: underline;">Z. Tuo</span>, 
+  M. Sikora <br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-6')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-6" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+To classify the genre of digital music, a sound signal is transformed into a Spectrogram image. Then, a traditional convolutional neural network (CNN)--transfer learning with VGG16, and a convolutional recurrent neural network (CRNN)--a RNN on top of a CNN, are designed separately to recognise music genre. It is proved that CRNN performs better than CNN when it comes to music genre recognition using spectrogram images.
+      </p>
+    </div>
+
+  </div>
+</div>
 - Orientation Estimation by EKF Algorithm
 - Sequential 3D Reconstruction
 
