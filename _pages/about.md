@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD candidate with research interests in 3D Computer Vision, Vision Language Models, Camera Mocap Sensor Fusion and so on.
+I am a second year PhD candidate with research interests in 3D Computer Vision, Vision Language Models, Camera Mocap Sensor Fusion, Robotics, and so on.
 
 Please feel free to contact me if there are any opportunities for secondements, collaborations, open discussions, and so on.
 
@@ -108,7 +108,44 @@ In terms of safe driving, it is important to obtain an exhaustive perception of 
 
 Projects
 ======
-- Available Surface Detection
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE3.jpg" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    Available surface detection by top-view depth camera
+    -automatic ground truth generation for binary semantic segmentation
+  </a>
+</h3>
+
+<p style="margin:6px 0;">
+  <span style="text-decoration: underline;">Z. Tuo</span><br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper2')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-paper2" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+A common problem for factory environments is incorporating a flexible assembly-line workflow that does not occupy too much space on the factory floor. For these purposes autonomous vehicles could be used to supply the assembly-lines with materials, but the problem of navigating in the factory then arises. Therefore this project aims to solve the problem of what areas of a factory floor are drivable, using a workflow consisting of background subtraction to generate a ground truth, that is then used to train a neural network. The output could potentially be used as a mapping for which a scheduler or robot control system could work upon to avoid collisions and problems with dynamic obstacles.
+      </p>
+    </div>
+
+  </div>
+</div>
+
 - 3D Object Detection from Stereo
 - Intelligent Humanoid Robot
 - Music Genre Recognition
