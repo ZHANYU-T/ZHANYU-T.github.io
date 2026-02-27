@@ -179,7 +179,7 @@ A common problem for factory environments is incorporating a flexible assembly-l
     <div id="abstract-4" style="display:none; margin-top:10px;">
       <b>Abstract:</b>
       <p>
-In this project we combine Geometry based Computer Vision with Machine Learning to refine 3D bounding boxes from the outputs of neural networks. The neural networks prodects the boxes boundary on stereo images, and then 3D computer vision geometry are used to refine the 3D boundary boxes.
+In this project we apply Geometry based Computer Vision to refine 3D bounding boxes from the outputs of neural networks. The neural networks predict the boxes boundary on stereo images, and then 3D computer vision geometry are added to refine the 3D boundary boxes.
       </p>
     </div>
 
