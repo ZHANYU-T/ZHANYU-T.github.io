@@ -293,7 +293,45 @@ To classify the genre of digital music, a sound signal is transformed into a Spe
     <div id="abstract-7" style="display:none; margin-top:10px;">
       <b>Abstract:</b>
       <p>
-In this project, a filter is designed to use the data from 3 key sensors of an Android mobile phone: gyroscope, accelerometer and magnetometer. The gyroscope, measures the angular velocity($\omega$). The accelerometer sensor measures the external force causing acceleration(a) such as gravity and other force that are acting on the phone. Finally, the magnetometer, measures the affect of the magnetic field(m) on the device. Then we designed an outlier to omit out the unaccepted measurements and only use the measurements which are in a accepted interval.
+In this project, a filter is designed to use the data from 3 key sensors of an Android mobile phone: gyroscope, accelerometer and magnetometer. The gyroscope, measures the angular velocity(omega). The accelerometer sensor measures the external force causing acceleration(a) such as gravity and other force that are acting on the phone. Finally, the magnetometer, measures the affect of the magnetic field(m) on the device. Then we designed an outlier to omit out the unaccepted measurements and only use the measurements which are in a accepted interval.
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE7.jpg" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    Model, Simulate, Design, Implement, and Validat a LQR controller for a Quadrocopter
+</h3>
+
+<p style="margin:6px 0;">
+  N. Andr´en, 
+  <span style="text-decoration: underline;">Z. Tuo</span>, 
+  O. Wahlgren, X. Liang<br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-8')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-8" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+In this project, we design a complimentary filter which uses the readings from the gyroscope and calculated angle from accelerometer, the drift of the readings of the sensors is eliminated. By comparing the simulations results we verify that the model is correct. We also chose a proper operating point to linearize the model so that we can design a LQR controller to control the system.  The LQR controller has been designed by adjusting the values of Q and R matrix. From the simulation results, we can see that the LQR controller performs well that the output can follow the reference well. But for the real physical system, the performance which can be improved later is noisy and not as good as the simulation result.
       </p>
     </div>
 
