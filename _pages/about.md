@@ -304,7 +304,7 @@ In this project, a filter is designed to use the data from 3 key sensors of an A
 
   <!-- Left image -->
   <div style="flex:0 0 260px; max-width:260px;">
-    <img src="assets/img/IMAGE7.jpg" style="width:100%; border-radius:10px;">
+    <img src="assets/img/IMAGE8.png" style="width:100%; border-radius:10px;">
   </div>
 
   <!-- Right content -->
@@ -337,7 +337,43 @@ In this project, we design a complimentary filter which uses the readings from t
 
   </div>
 </div>
-- Sequential 3D Reconstruction
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE8.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    3D reconstruction of Skansen Lejonet by Structure from Motion
+</h3>
+
+<p style="margin:6px 0;">
+   D. Xue 
+  <span style="text-decoration: underline;">Z. Tuo</span>, 
+  <br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-9')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-9" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+In this project, we reconstruct the 3D point cloud of Skansen Lejonet by using severl images from different view points. we use RANSAC to estimate a new camera pose with minimum outliers, and evaluate a picture-sorting strategy by comparison with a carefully manually ranked order, we also evaluate effect of refine-triangulation in process of adding new cameras.s
+      </p>
+    </div>
+
+  </div>
+</div>
 
 Talks
 ======
