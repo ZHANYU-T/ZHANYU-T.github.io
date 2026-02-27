@@ -341,7 +341,7 @@ In this project, we design a complimentary filter which uses the readings from t
 
   <!-- Left image -->
   <div style="flex:0 0 260px; max-width:260px;">
-    <img src="assets/img/IMAGE8.png" style="width:100%; border-radius:10px;">
+    <img src="assets/img/IMAGE9.png" style="width:100%; border-radius:10px;">
   </div>
 
   <!-- Right content -->
@@ -368,7 +368,45 @@ In this project, we design a complimentary filter which uses the readings from t
     <div id="abstract-9" style="display:none; margin-top:10px;">
       <b>Abstract:</b>
       <p>
-In this project, we reconstruct the 3D point cloud of Skansen Lejonet by using severl images from different view points. we use RANSAC to estimate a new camera pose with minimum outliers, and evaluate a picture-sorting strategy by comparison with a carefully manually ranked order, we also evaluate effect of refine-triangulation in process of adding new cameras.s
+In this project, we reconstruct the 3D point cloud of Skansen Lejonet by using severl images from different view points. we use RANSAC to estimate a new camera pose with minimum outliers, and evaluate a picture-sorting strategy by comparison with a carefully manually ranked order, we also evaluate effect of refine-triangulation in process of adding new cameras.
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE10.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+<h3 style="margin-top:0;">
+    Bike trajectory tracking based on Partical Filter 
+</h3>
+
+<p style="margin:6px 0;">
+   D. Xue 
+  <span style="text-decoration: underline;">Z. Tuo</span>, 
+  <br>
+  <i>2019</i>
+</p>
+
+<!-- Buttons -->
+    <p style="margin:10px 0;">
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-10')" style="background:#7aa874; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+<!-- Abstract (hidden) -->
+    <div id="abstract-10" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+In this project, we design a Partical Filter with resampling to track a bike trajectory. We have a map and a measurment of the velocity of bike. With a initial guess of the bike location,  the particles are getting close to the true trajectory step by step, and finally the Particil filter follow the trajectory very well.
       </p>
     </div>
 
