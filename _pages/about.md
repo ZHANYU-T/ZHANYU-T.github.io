@@ -124,7 +124,7 @@ Projects
 </h3>
 
 <p style="margin:6px 0;">
-  <span class="my-name">Z. Tuo</span>, 
+  <span style="text-decoration: underline;">Z. Tuo</span>, 
   V. Brandt, 
   M. Juhlin,
   L. Rauh<br>
