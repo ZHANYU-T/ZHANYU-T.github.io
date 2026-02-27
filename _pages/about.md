@@ -28,7 +28,7 @@ Publications
     </h3>
 
   <p style="margin:6px 0;">
-      Zhanyu Tuo
+      Zhanyu Tuo<br>
       <i>arXiv 2026</i>
     </p>
 
@@ -83,7 +83,7 @@ Thesis
 </h3>
 
 <p style="margin:6px 0;">
-  Zhanyu Tuo
+  Zhanyu Tuo<br>
   <i>2020</i>
 </p>
 
@@ -149,7 +149,6 @@ A common problem for factory environments is incorporating a flexible assembly-l
 </div>
 
 - 3D Object Detection from Stereo
-- Intelligent Humanoid Robot
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
 
@@ -166,7 +165,7 @@ A common problem for factory environments is incorporating a flexible assembly-l
 </h3>
 
 <p style="margin:6px 0;">
-  F. Lagerstedt
+  F. Lagerstedt,
   <span style="text-decoration: underline;">Z. Tuo</span>, 
   T. Stenström, 
   N. C. Gammanage<br>
