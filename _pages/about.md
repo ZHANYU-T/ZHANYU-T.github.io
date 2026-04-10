@@ -29,7 +29,7 @@ Publications
 
   <p style="margin:6px 0;">
       Zhanyu Tuo<br>
-      <i>Outstanding oral presentation at [AAIML 2026](https://www.aaiml.net/index.html)</i>
+      <i>Outstanding oral presentation at AAIML 2026</i>
     </p>
 
     <!-- Buttons -->
