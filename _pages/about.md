@@ -466,8 +466,8 @@ Awards
 Beyonds
 ======
 I am very interested in taking photos, road and trail runnings, hiking and camping, backpacking around the world, and so on.
-- Marathon PB: 03:59:36 at Paris Marathon 2025
-- Half Marathon PB: 01:44:24 at Half Marathon in Vincennes 2025
+- Marathon PB: ~03:59:36 at Paris Marathon 2025~ 03:29:40 at the challenge race 2026
+- Half Marathon PB: ~01:44:24 at Half Marathon in Vincennes 2025~ 01:29:37 at La Grande Course du Grand Paris 2026
 - Highest mountains peaked on foot: Kebnekaise in Sweden and Mount Taibai in China.
 - Best hiking experience: Tour du Mont Blanc through France, Italy, and Swizerland in 2023.
 
