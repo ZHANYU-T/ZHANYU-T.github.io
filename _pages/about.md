@@ -29,7 +29,7 @@ Publications
 
   <p style="margin:6px 0;">
       Zhanyu Tuo<br>
-      <i>arXiv 2026</i>
+      <i>Outstanding oral presentation at [AAIML 2026](https://www.aaiml.net/index.html)</i>
     </p>
 
     <!-- Buttons -->
@@ -459,7 +459,7 @@ Talks
 
 Awards
 ======
-- [Outstanding oral presentation at AAIML 2026](https://www.aaiml.net/index.html).
+- Outstanding oral presentation at [AAIML 2026](https://www.aaiml.net/index.html).
 
 - [Volvo Car Scholarship](https://www.european-funding-guide.eu/fr/bourse/8412-The-Volvo-Car-Group-Scholarships) from 2018 to 2020, 2 students in total per year.
 
