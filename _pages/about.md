@@ -116,12 +116,19 @@ series = {RichMediaGAI '26}
     <!-- BibTeX (hidden) -->
     <div id="bibtex-paper1" style="display:none; margin-top:10px;">
 <pre>
-@article{tuo2026rpgd,
-  title={RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation},
+@INPROCEEDINGS{11498194,
   author={Tuo, Zhanyu},
-  journal={arXiv preprint arXiv:2602.13901},
-  year={2026}
-}
+  booktitle={2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML)}, 
+  title={RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={530-536},
+  abstract={In this paper, we propose RPGD (RANSAC-P3P Gradient Descent), a human-pose-driven extrinsic calibration framework that robustly aligns MoCap-based 3D skeletal data with monocular or multi-view RGB cameras using only natural human motion. RPGD formulates extrinsic calibration as a coarse-to-fine problem tailored to human poses, combining the global robustness of RANSAC-P3P with Gradient-Descent-based refinement. We evaluate RPGD on three large-scale public 3D HPE datasets as well as on a self-collected in-the-wild dataset. Experimental results demonstrate that RPGD consistently recovers extrinsic parameters with accuracy comparable to the provided ground truth, achieving sub-pixel MPJPE reprojection error even in challenging, noisy settings. These results indicate that RPGD provides a practical and automatic solution for reliable extrinsic calibration of large-scale 3D HPE dataset collection.},
+  keywords={Filtering;Filters;Oscillators;Circuits and systems;Pixel;Videos;Protocols;Video equipment;HTTP;Digital images;3D Computer Vision;Human Pose Estimation;Camera Calibration;Sensor Fusion;RANSAC;Gradient Descent},
+  doi={10.1109/AAIML67890.2026.11498194},
+  ISSN={},
+  month={March},}
 </pre>
     </div>
 
