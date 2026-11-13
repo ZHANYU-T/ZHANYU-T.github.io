@@ -63,6 +63,68 @@ Publications
 
   </div>
 </div>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:35px;">
+
+  <!-- Left image -->
+  <div style="flex:0 0 260px; max-width:260px;">
+    <img src="assets/img/IMAGE2.png" style="width:100%; border-radius:10px;">
+  </div>
+
+  <!-- Right content -->
+  <div style="flex:1; min-width:260px;">
+
+  <h3 style="margin-top:0;">
+      The RenAIssance: Caption-Guided Diffusion Models for Historical-Art Visual Media
+    </h3>
+
+  <p style="margin:6px 0;">
+      Zhanyu Tuo<br>
+      <i>Oral presentation and proceeding at ACMMM 2026 RichMediaGAI</i>
+    </p>
+
+    <!-- Buttons -->
+    <p style="margin:10px 0;">
+      <a href="assets/papers/3841458.3841538.pdf" style="background:#b6bdc5; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">pdf</a>
+
+      <a href="javascript:void(0);" onclick="toggleBlock('bibtex-paper1')" style="background:#b6bdc5; color:white; padding:6px 12px; border-radius:6px; text-decoration:none; margin-right:6px;">bibtex</a>
+
+      <a href="javascript:void(0);" onclick="toggleBlock('abstract-paper1')" style="background:#b6bdc5; color:white; padding:6px 12px; border-radius:6px; text-decoration:none;">abstract</a>
+    </p>
+
+    <!-- Abstract (hidden) -->
+    <div id="abstract-paper2" style="display:none; margin-top:10px;">
+      <b>Abstract:</b>
+      <p>
+      Generative AI can expand cultural collections into prompt-responsive visual media, but historical artworks rarely provide the paired descriptions needed to adapt modern image generators. We present The RenAIssance, a scalable pipeline that turns a collection of historical European artworks into a reusable text-to-image media resource. The pipeline generates scene-level captions with BLIP and uses the resulting approximately 15,000 image–text pairs from DEArt to train a compact LoRA adapter for Stable Diffusion v1.5. The adapter shifts generated images toward the historical-art distribution while retaining the base model’s ability to render novel concepts. On historical and contemporary prompts of different lengths, it improves FID to the DEArt reference distribution in every setting with only a modest decrease in CLIP text–image similarity. Qualitative results show that the same adapter can render both period-appropriate subjects and contemporary concepts in a coherent historical visual language. By decoupling a reusable style representation from the base generator, the approach offers a practical building block for controllable historical-art media creation, interactive authoring, and rich-media experiences.
+      </p>
+    </div>
+
+    <!-- BibTeX (hidden) -->
+    <div id="bibtex-paper2" style="display:none; margin-top:10px;">
+<pre>
+@inproceedings{10.1145/3841458.3841538,
+author = {Tuo, Zhanyu},
+title = {The RenAIssance: Caption-Guided Diffusion Models for Historical-Art Visual Media},
+year = {2026},
+isbn = {9798400729478},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3841458.3841538},
+doi = {10.1145/3841458.3841538},
+abstract = {Generative AI can expand cultural collections into prompt-responsive visual media, but historical artworks rarely provide the paired descriptions needed to adapt modern image generators. We present The RenAIssance, a scalable pipeline that turns a collection of historical European artworks into a reusable text-to-image media resource. The pipeline generates scene-level captions with BLIP and uses the resulting approximately 15,000 image–text pairs from DEArt to train a compact LoRA adapter for Stable Diffusion v1.5. The adapter shifts generated images toward the historical-art distribution while retaining the base model’s ability to render novel concepts. On historical and contemporary prompts of different lengths, it improves FID to the DEArt reference distribution in every setting with only a modest decrease in CLIP text–image similarity. Qualitative results show that the same adapter can render both period-appropriate subjects and contemporary concepts in a coherent historical visual language. By decoupling a reusable style representation from the base generator, the approach offers a practical building block for controllable historical-art media creation, interactive authoring, and rich-media experiences.},
+booktitle = {Proceedings of the Fourth International Workshop on Rich Media with Generative AI},
+pages = {62–70},
+numpages = {9},
+keywords = {generative AI, visual media, text-to-image generation, diffusion models, LoRA},
+location = {Rio de Janeiro, Brazil},
+series = {RichMediaGAI '26}
+}
+</pre>
+    </div>
+
+  </div>
+</div>
   
 Thesis
 ======
