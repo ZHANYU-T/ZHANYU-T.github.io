@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD candidate with research interests in 3D Computer Vision, Vision Language Models, Camera Mocap Sensor Fusion, Robotics, and so on.
+I am a last year PhD candidate with research interests in 3D Computer Vision, Vision Language Models, Camera Mocap Sensor Fusion, Robotics, Art and so on.
 
 Please feel free to [contact me](mailto:zhanyutuo@gmail.com) if there are any opportunities for secondements, collaborations, open discussions, and so on.
 
